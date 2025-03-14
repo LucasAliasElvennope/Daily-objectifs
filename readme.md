@@ -30,3 +30,5 @@ Et voici quelque [raccourcis](https://www.malekal.com/raccourcis-terminal-linux/
 - 2  **Jour 4** : Les [cheetsheets](https://github.com/LucasAliasElvennope/cheatsheets) rédiger en markdown.
 
 - 3  **Jour 5** : Création de ce repo avec le readme.md .
+
+ ![Exemple de commit](home/lucas/Documents/dailyobjectifs)
