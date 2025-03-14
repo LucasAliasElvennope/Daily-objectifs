@@ -4,6 +4,12 @@
 
 ###  Dayli objectifs
 
+
+- **Jour 2** Configuration de ZSH comme shell par défaut :
+
+![Zsh defaut](https://raw.githubusercontent.com/LucasAliasElvennope/Daily-objectifs/refs/heads/main/zshdefaut.png)
+
+
 - **Jour 3** : [Exo de git it](https://github.com/LucasAliasElvennope/hello-world).
 Challenge Git It
 
