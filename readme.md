@@ -19,3 +19,14 @@ Le [MArkdown](https://www.ionos.fr/digitalguide/sites-internet/developpement-web
 Voici quelque [commandes](https://www.lemagit.fr/conseil/Les-83-commandes-Linux-a-connaitre?utm_source=chatgpt.com) pour gagner en efficacité .
 
 Et voici quelque [raccourcis](https://www.malekal.com/raccourcis-terminal-linux/).
+
+---
+
+###  Dayli objectifs
+
+- 1 **Jour 3** : [Exo de git it](https://github.com/LucasAliasElvennope/hello-world).
+
+
+- 2  **Jour 4** : Les [cheetsheets](https://github.com/LucasAliasElvennope/cheatsheets) rédiger en markdown.
+
+- 3  **Jour 5** : Création de ce repo avec le readme.md .
