@@ -31,4 +31,6 @@ Et voici quelque [raccourcis](https://www.malekal.com/raccourcis-terminal-linux/
 
 - 3  **Jour 5** : Création de ce repo avec le readme.md .
 
- ![Exemple de commit](home/lucas/Documents/dailyobjectifs)
+   Exemple de commit
+   
+  ![Exemple de commit](https://raw.githubusercontent.com/LucasAliasElvennope/Daily-objectifs/refs/heads/main/image%20pour%20repo.png)
