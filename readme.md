@@ -2,7 +2,7 @@
  
 ---
 
-###  Dayli objectifs
+##  Daylis objectifs
 
 
 - **Jour 2** Configuration de ZSH comme shell par défaut :
