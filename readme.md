@@ -15,15 +15,16 @@
 ![Power10k](https://raw.githubusercontent.com/LucasAliasElvennope/Daily-objectifs/refs/heads/main/power10k.png)
 
 
-Connexion en ssh a github :
-
-![Ssh Github](https://raw.githubusercontent.com/LucasAliasElvennope/Daily-objectifs/refs/heads/main/connexiongithub.png)
-
 
 - **Jour 3** : [Exo de git it](https://github.com/LucasAliasElvennope/hello-world).
 Challenge Git It
 
 ![Git it](https://raw.githubusercontent.com/LucasAliasElvennope/Daily-objectifs/refs/heads/main/git%20it.png)
+
+
+Connexion en ssh a github :
+
+![Ssh Github](https://raw.githubusercontent.com/LucasAliasElvennope/Daily-objectifs/refs/heads/main/connexiongithub.png)
 
 
 - **Jour 4** : Les [cheetsheets](https://github.com/LucasAliasElvennope/cheatsheets) rédiger en markdown.
