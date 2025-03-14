@@ -10,7 +10,7 @@
 
 ### Markdown
 
-Le [MArkdown](https://www.ionos.fr/digitalguide/sites-internet/developpement-web/markdown/?utm_source=chatgpt.com) est un langage de balisage léger permettant de formater du texte de manière simple et lisible. Il est couramment utilisé pour rédiger des documents, des articles de blog, des README de projets, et bien plus.
+Le [Markdown](https://www.ionos.fr/digitalguide/sites-internet/developpement-web/markdown/?utm_source=chatgpt.com) est un langage de balisage léger permettant de formater du texte de manière simple et lisible. Il est couramment utilisé pour rédiger des documents, des articles de blog, des README de projets, et bien plus.
 
 
 
