@@ -10,6 +10,16 @@
 ![Zsh defaut](https://raw.githubusercontent.com/LucasAliasElvennope/Daily-objectifs/refs/heads/main/zshdefaut.png)
 
 
+ Installation de Power10k :
+
+![Power10k](https://raw.githubusercontent.com/LucasAliasElvennope/Daily-objectifs/refs/heads/main/power10k.png)
+
+
+Connexion en ssh a github :
+
+![Ssh Github](https://raw.githubusercontent.com/LucasAliasElvennope/Daily-objectifs/refs/heads/main/connexiongithub.png)
+
+
 - **Jour 3** : [Exo de git it](https://github.com/LucasAliasElvennope/hello-world).
 Challenge Git It
 
